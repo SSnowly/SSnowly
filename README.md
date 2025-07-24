@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @SSnowly
-- 👀 I’m interested in Being Alive
-- 🌱 I’m currently learning Software Development
-- 📫 My discord is snowylol_
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: An idiot
+Hey! I'm Snowy.
+I make cool stuff with lua, Javascript/Typescript and sometimes python.
+I'm a freelancer in FiveM, i create scripts, manage and build servers, and optimize resources.
